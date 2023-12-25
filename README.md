@@ -1,4 +1,4 @@
-<h1 align="center"><b> ─「 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗠𝗘𝗡𝗧𝗜𝗢𝗡 」─ </b></h1>
+<h1 align="center"><b> ─「 𝗦𝗬𝗦𝗧𝗘𝗠 𝗠𝗘𝗡𝗧𝗜𝗢𝗡 」─ </b></h1>
 
 <h4 align="center">SYSTEM MENTION A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
 
