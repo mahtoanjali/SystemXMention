@@ -2,7 +2,7 @@
 
 <h4 align="center">SYSTEM MENTION A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/BLACKx_GOD"><img src="https://te.legra.ph/file/3b3c01623a1a7b3774571.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/BLACKx_GOD"><img src="https://te.legra.ph/file/ebd94c36f077edce512b3.jpg" width="400"></a></p>
 
 <p align="center">
     
@@ -47,7 +47,7 @@
 
 ## CREDITS
 
-- [ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ](https://t.me/BLACKx_GOD)
+- [ᴍᴀʜᴛᴏ](https://t.me/BLACKx_GOD)
 
 - [ʏᴏᴜᴛᴜʙᴇ](https://t.me/TOXIC_VIP_CONFIG_MOD)
 
