@@ -41,8 +41,8 @@ async def start(event):
         link_preview=False,
         buttons=[
             [Button.url(" ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ", "https://t.me/System_MentionBot?startgroup=true")],
-            [Button.url(" ɢʀᴏᴜᴘ ", "https://t.me/MAHTOxOFFICIAL"), Button.url(" ᴄʜᴀɴɴᴇʟ ", "https://t.me/TOXIC_VIP_CONFIG_MOD")],
-            [Button.url(" ᴄʜᴀɴɴᴇʟ ", "https://t.me/REESHU_KEWAT_MODS"), Button.url(" ᴍᴀʜᴛᴏ ", "https://t.me/BLACKx_GOD")]
+            [Button.url(" ɢʀᴏᴜᴘ ", "https://t.me/MAHTOxOFFICIAL"), Button.url(" ᴄʜᴀɴɴᴇʟ ", "https://t.me/+0475i4JPYx03NGM1")],
+            [Button.url(" ᴄʜᴀɴɴᴇʟ ", "https://t.me/+0475i4JPYx03NGM1"), Button.url(" ᴍᴀʜᴛᴏ ", "https://t.me/BLACKx_GOD")]
         ]
     )
 
@@ -59,7 +59,7 @@ async def help(event):
         buttons=(
             [
                 Button.url(" ꜱᴜᴘᴘᴏʀᴛ ", "https://t.me/MAHTOxOFFICIAL"),
-                Button.url(" ᴄʜᴀɴɴᴇʟ ", "https://t.me/TOXIC_VIP_CONFIG_MOD"),
+                Button.url(" ᴄʜᴀɴɴᴇʟ ", "https://t.me/+0475i4JPYx03NGM1"),
             ]
         ),
     )
@@ -70,14 +70,14 @@ async def help(event):
     chat_id = event.chat_id
     if not event.is_private:
         return await event.respond("ᴅᴇᴀʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ᴘᴍ ᴛᴏ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴғ ")
-    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ sʏsᴛᴇᴍ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [ᴍᴀʜᴛᴏ ᴏᴡɴᴇʀ](https://t.me/BLACKx_GOD)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ sʏsᴛᴇᴍ\n✪ ᴛᴇʟᴇɢʀᴀᴍ [ᴄʜᴀɴɴᴇʟ](https://t.me/TOXIC_VIP_CONFIG_MOD)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
+    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ sʏsᴛᴇᴍ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [ᴍᴀʜᴛᴏ ᴏᴡɴᴇʀ](https://t.me/BLACKx_GOD)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ sʏsᴛᴇᴍ\n✪ ᴛᴇʟᴇɢʀᴀᴍ [ᴄʜᴀɴɴᴇʟ](https://t.me/+0475i4JPYx03NGM1)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
     await event.reply(
         helptext,
         link_preview=False,
         buttons=(
             [
                 Button.url(" ꜱᴜᴘᴘᴏʀᴛ ", "https://t.me/MAHTOxOFFICIAL"),
-                Button.url(" ᴄʜᴀɴɴᴇʟ ", "https://t.me/TOXIC_VIP_CONFIG_MOD"),
+                Button.url(" ᴄʜᴀɴɴᴇʟ ", "https://t.me/+0475i4JPYx03NGM1"),
             ]
         ),
     )
